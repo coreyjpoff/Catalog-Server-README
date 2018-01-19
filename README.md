@@ -1,6 +1,6 @@
 # Catalog-Server (Udacity Course)
 
-##Author: Corey Poff
+## Author: Corey Poff
 
 ## Server Access
 
