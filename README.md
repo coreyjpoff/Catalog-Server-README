@@ -31,3 +31,9 @@ The following Python 2.7 libraries were installed:
  - oauth2client
  - psycopg2
  - httplib2
+
+The following resources were used:
+ - Flask, apache, python, and PostgreSQL documentation
+ - Ubuntu documentation
+ - AWS and Lightsail documentation
+ - A few stackoverflow posts about the above programs and packages
